@@ -1,3 +1,0 @@
-﻿  P18.cpp
-C:\Users\popos\Desktop\Codigos Programacion\P18\P18\P18.cpp(11,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
-  P18.vcxproj -> C:\Users\popos\Desktop\Codigos Programacion\P18\x64\Debug\P18.exe
